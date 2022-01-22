@@ -1,9 +1,15 @@
 -Vladoslav Tonchev
 
--SoftUni Certificate:
+-SoftUni Certificates:
+
 *Programming Basics with C#
+
 *C# Advanced
+
 *C# OOP
+
 *JS Advanced
+
 *MS SQL
+
 *Entity Framework Core
